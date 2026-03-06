@@ -1,0 +1,7 @@
+.was-validated .form-control:invalid{
+border:2px solid red;
+}
+
+.was-validated .form-control:valid{
+border:2px solid green;
+}
